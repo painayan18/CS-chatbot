@@ -1,2 +1,3 @@
-Chatbot for customer support using RAG with PDF file input.
+# CS-chatbot
 
+Chatbot for customer support using RAG with PDF file input.
